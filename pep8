@@ -11,7 +11,7 @@ y =    2
 '''
 Not important 
 '''
-# it should be one line
+# small comment should be in one line
 
 if y >= x:
     print(math.sqrt(y))   #  consistency in return statements
