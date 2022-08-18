@@ -1,0 +1,17 @@
+# Pep8 Task
+
+#Your task is to give bad code examples(wrong pep8 application)
+
+
+import math, time # should be in 2 lines
+
+x =    1  # there shouldn't be such space 
+y =    2
+
+'''
+Not important 
+'''
+# it should be one line
+
+if y >= x:
+    print(math.sqrt(y))   #  consistency in return statements
